@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: #232327;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+section {
+    padding: 10px;
+}
+
+.details {
+    padding-left: 20px;
+}
