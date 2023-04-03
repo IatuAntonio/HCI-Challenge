@@ -13,6 +13,9 @@ header {
 section {
     padding: 10px;
 }
+p {
+    padding-left: 20px;
+}
 
 .details {
     padding-left: 20px;
